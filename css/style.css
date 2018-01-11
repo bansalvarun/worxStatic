@@ -5,9 +5,9 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
-    font-size: 100%;
+    font-size: 69%;
 	background:	#fff;
-	font-family: 'Droid Sans', sans-serif;
+	font-family: 'Comic Sans', sans-serif;
 }
 body a{
 	transition: 0.5s all ease;
@@ -20,14 +20,14 @@ h1,h2,h3,h4,h5,h6{
 	margin:0;			   
 }
 p{
-	margin:0;
+	margin:10px;
 }
 ul,label{
 	margin:0;
 	padding:0;
 }
 body a:hover{
-	text-decoration:none;
+	text-decoration:bold;
 }
 /*-- Header Part Starts Here --*/
 span.menu {
@@ -68,7 +68,7 @@ span.menu {
   margin-top: -5px;
 }
 .navigation {
-	background:#23292F;
+	background:#22292F;
 	position: absolute;
 	top: 96px;
 	width: 100%;
